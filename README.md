@@ -1,5 +1,3 @@
-![Screenshot 2025-06-18 210654](https://github.com/user-attachments/assets/bfc90ee1-8548-466c-a238-9bd5e0fd46d5)![Screenshot 2025-06-18 210654](https://github.com/user-attachments/assets/bfc90ee1-8548-466c-a238-9bd5e0fd46d5)# 🛒 Supermarket Sales Data Analysis (EDA)
-
 This project performs Exploratory Data Analysis (EDA) on a real-world supermarket sales dataset to uncover trends and insights related to sales, product lines, days, and months.
 
 ---
