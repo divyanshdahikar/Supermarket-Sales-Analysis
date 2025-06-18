@@ -39,14 +39,12 @@ This project performs Exploratory Data Analysis (EDA) on a real-world supermarke
 Line plot showing how total sales varied across each date.
 
 ![Screenshot 2025-06-18 210654](https://github.com/user-attachments/assets/907fa12b-a299-44e4-8d90-f847c55d2b54)
-![Screenshot 2025-06-18 210654](https://github.com/user-attachments/assets/907fa12b-a299-44e4-8d90-f847c55d2b54)
 
 ---
 
 ### 2. 📅 Sales by Day of the Week
 Bar chart showing which days had the highest total sales.
 
-![Screenshot 2025-06-18 211518](https://github.com/user-attachments/assets/360aa3d8-971a-401e-94f2-8a8b298b636b)
 ![Screenshot 2025-06-18 211518](https://github.com/user-attachments/assets/360aa3d8-971a-401e-94f2-8a8b298b636b)
 
 ---
@@ -55,7 +53,6 @@ Bar chart showing which days had the highest total sales.
 Identifies highest-selling product lines on Tuesdays by total revenue and quantity.
 
 ![Screenshot 2025-06-18 211619](https://github.com/user-attachments/assets/4a0f3a9b-990b-4d20-ac08-9fb8e5c58d16)
-![Screenshot 2025-06-18 211619](https://github.com/user-attachments/assets/4a0f3a9b-990b-4d20-ac08-9fb8e5c58d16)
 
 ---
 
@@ -63,19 +60,14 @@ Identifies highest-selling product lines on Tuesdays by total revenue and quanti
 Compares top product lines on weekends — includes both total sales and quantity sold.
 
 ![Screenshot 2025-06-18 212023](https://github.com/user-attachments/assets/2dbf5158-9b05-408e-b64f-cadeac34da84)
-![Screenshot 2025-06-18 212023](https://github.com/user-attachments/assets/2dbf5158-9b05-408e-b64f-cadeac34da84)
 
 ![Screenshot 2025-06-18 212059](https://github.com/user-attachments/assets/a39cbc61-43ed-48b6-bebe-84a6a3787967)
-![Uploading Screenshot 2025-06-18 212059.png…]()
-![Uploading Screenshot 2025-06-18 212059.png…]()
-![Uploading Screenshot 2025-06-18 212059.png…]()
 
 ---
 
 ### 5. 📅 Monthly Product Line Breakdown
 Grouped bar chart comparing product sales across January, February, and March.
 
-![Screenshot 2025-06-18 212355](https://github.com/user-attachments/assets/8cb9c631-37cd-40b2-888b-efb8ffa12a67)
 ![Screenshot 2025-06-18 212355](https://github.com/user-attachments/assets/8cb9c631-37cd-40b2-888b-efb8ffa12a67)
 
 ---
@@ -84,7 +76,6 @@ Grouped bar chart comparing product sales across January, February, and March.
 - Daily trend of sales in January across different product lines.
 - Quantity of each product sold in January.
 
-![Screenshot 2025-06-18 213357](https://github.com/user-attachments/assets/cb2a5470-a869-41fe-8644-8af30652d16c)
 ![Screenshot 2025-06-18 213357](https://github.com/user-attachments/assets/cb2a5470-a869-41fe-8644-8af30652d16c)
 
 ---
